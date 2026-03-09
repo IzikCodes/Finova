@@ -51,7 +51,7 @@ It should move **trust**.
 
 # 🚀 Deployment
 
-The project is temporarily deployed on **Netlify** (https://finova.netlify.app) for demonstration and interface review.
+The project is temporarily deployed on **Netlify** (https://finova-invest.netlify.app) for demonstration and interface review.
 
 Future development will include a full backend system supporting:
 
